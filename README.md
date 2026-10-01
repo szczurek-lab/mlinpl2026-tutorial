@@ -1,6 +1,6 @@
 # Controllable Generative Design of Biological Sequences
 
-This repository contains teaching materials used during tutorial session held **Controllable Generative Design of Biological Sequences** on [ML in PL 2026 Conference](https://conference.mlinpl.org/2026/program#tutorial-1), led by members of the [Ewa Szczurek Lab](https://ewaszczureklab.mimuw.edu.pl/).
+This repository contains teaching materials for **Controllable Generative Design of Biological Sequences**, a tutorial at the [ML in PL 2026 Conference](https://conference.mlinpl.org/2026/program#tutorial-1), led by members of the [Ewa Szczurek Lab](https://ewaszczureklab.mimuw.edu.pl/).
 
 ## Description
 Generative machine learning is transforming how we design peptides, proteins and small molecules. Yet for AI-oriented researchers, understanding how these methods connect to real biological design problems, and how to apply them in practice, can be hard to approach. This tutorial closes that gap, teaching both the theory behind controllable generative design and the practical skills needed to apply our lab’s models to concrete sequence design tasks.
