@@ -30,7 +30,7 @@ While the tutorial focuses on biological sequences, the underlying principles of
 
 - Update the agenda with the title of your session.
 - Add your subfolder in the `materials` directory to match your session title.
-- Add a `README.md` to your subfolder with appropriate description with setup instructions, citation, etc.
+- Add a `README.md` to your subfolder with an appropriate description: setup instructions, citation, etc.
 - Add a notebook to your subfolder containing "executable walkthrough". Ideally, participants should be able to run it in Google Colab or on their local machine. 
 - If needed, add a PDF presentation with "a brief conceptual reminder".
 - Build opportunities for participation into your session. E.g. prepare a few questions or short exercises that invite participants to predict an outcome, interpret a result, or explore how changing a parameter affects generation. Pause to discuss their answers and connect these observations to the concepts being taught.
