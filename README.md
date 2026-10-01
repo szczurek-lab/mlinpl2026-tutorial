@@ -34,3 +34,4 @@ While the tutorial focuses on biological sequences, the underlying principles of
 - Add a notebook to your subfolder containing "executable walkthrough". Ideally, participants should be able to run it in Google Colab or on their local machine. 
 - If needed, add a PDF presentation with "a brief conceptual reminder".
 - Build opportunities for participation into your session. E.g. prepare a few questions or short exercises that invite participants to predict an outcome, interpret a result, or explore how changing a parameter affects generation. Pause to discuss their answers and connect these observations to the concepts being taught.
+- Deadline for prepering the materials: Friday, 9th of October, 1PM
