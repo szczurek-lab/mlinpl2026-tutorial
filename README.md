@@ -22,8 +22,8 @@ While the tutorial focuses on biological sequences, the underlying principles of
 - **[PepCompass](materials/pepcompass/README.md)** (30 min) - Adam Bielecki
 - **[OmegAMP](materials/omegamp/README.md)** (30 min) - Diogo Soares
 - Break (15 min)
-- **[TBA](materials/adam-izdebski/README.md)** (30 min) - Adam Izdebski
-- **[TBA](materials/serra-korkmaz/README.md)** (30 min) - Serra Korkmaz
+- **[Hyformer](materials/adam-izdebski/README.md)** (30 min) - Adam Izdebski
+- **[Joint Self-Improvement](materials/serra-korkmaz/README.md)** (30 min) - Serra Korkmaz
 - **[TBA](materials/pankhil-gawade/README.md)** (30 min) - Pankhil Gawade
 
 ## Guidelines for presenters
