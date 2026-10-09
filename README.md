@@ -24,7 +24,7 @@ While the tutorial focuses on biological sequences, the underlying principles of
 - Break (15 min)
 - **[TBA](materials/adam-izdebski/README.md)** (30 min) - Adam Izdebski
 - **[TBA](materials/serra-korkmaz/README.md)** (30 min) - Serra Korkmaz
-- **[TBA](materials/pankhil-gawade/README.md)** (30 min) - Pankhil Gawade
+- **[AMPFormer](materials/pankhil-gawade/README.md)** (30 min) - Pankhil Gawade
 
 ## Guidelines for presenters
 
