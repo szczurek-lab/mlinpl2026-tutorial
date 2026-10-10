@@ -17,10 +17,10 @@ While the tutorial focuses on biological sequences, the underlying principles of
 
 ## Agenda
 
-- **[Foundations (slides)](materials/foundations/Foundations.pdf)** (1 h) - Ewa Szczurek 
+- **[Foundations (slides)](materials/foundations/Readme.md)** (1 h) - Ewa Szczurek 
 - Break (15 min)
 - **[PepCompass](materials/pepcompass/README.md)** (30 min) - Adam Bielecki
-    - [Google Colab](https://colab.research.google.com/drive/18gRwmPVHx310pNKY4aeT-qzxjjO0P-uj)
+    - [Google Colab](https://colab.research.google.com/drive/1wrVuW79WUhAzymUFtwBvdy4Z1NvFUxb7#scrollTo=3HD8lxkx3CGm)
 - **[OmegAMP](materials/omegamp/README.md)** (30 min) - Diogo Soares
     - [Slides](materials/omegamp/omegamp-ml-in-pl.pdf)
     - [Google Colab](https://colab.research.google.com/drive/1hrk-3Pc0zZUkpCVKMY6vns9G6BcWWXyM?usp=sharing)
