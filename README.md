@@ -23,9 +23,9 @@ While the tutorial focuses on biological sequences, the underlying principles of
 - **[OmegAMP](materials/omegamp/README.md)** (30 min) - Diogo Soares
 - Break (15 min)
 - **[Sampling with Joint Generative-Predictive Chemical Language Models](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models)**
-    - **[Hyformer](materials/hyformer/README.md)** (30 min) - Adam Izdebski
-    - **[Joint-self-improvement](materials/joint-self-improvement/README.md)** (30 min) - Serra Korkmaz
-    - **[AMPFormer](materials/ampformer/README.md)** (30 min) - Pankhil Gawade
+    - **[Hyformer](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models/hyformer/README.md)** (30 min) - Adam Izdebski
+    - **[Joint-self-improvement](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models/joint-self-improvement/README.md)** (30 min) - Serra Korkmaz
+    - **[AMPFormer](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models/ampformer/README.md)** (30 min) - Pankhil Gawade
 
 ## Guidelines for presenters
 
