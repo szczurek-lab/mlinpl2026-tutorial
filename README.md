@@ -22,7 +22,7 @@ While the tutorial focuses on biological sequences, the underlying principles of
 - **[PepCompass](materials/pepcompass/README.md)** (30 min) - Adam Bielecki
 - **[OmegAMP](materials/omegamp/README.md)** (30 min) - Diogo Soares
 - Break (15 min)
-- **Sampling with Joint Generative-Predictive Chemical Language Models**
+- **[Sampling with Joint Generative-Predictive Chemical Language Models](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models)**
     - **[Hyformer](materials/hyformer/README.md)** (30 min) - Adam Izdebski
     - **[TBA](materials/joint-self-improvement/README.md)** (30 min) - Serra Korkmaz
     - **[AMPFormer](materials/ampformer/README.md)** (30 min) - Pankhil Gawade
