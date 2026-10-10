@@ -17,12 +17,18 @@ While the tutorial focuses on biological sequences, the underlying principles of
 
 ## Agenda
 
-- **[Foundations](materials/foundations/README.md)** (1 h) - Ewa Szczurek 
+- **[Foundations (slides)](materials/foundations/Foundations.pdf)** (1 h) - Ewa Szczurek 
 - Break (15 min)
 - **[PepCompass](materials/pepcompass/README.md)** (30 min) - Adam Bielecki
+    - [Google Colab](https://colab.research.google.com/drive/18gRwmPVHx310pNKY4aeT-qzxjjO0P-uj)
 - **[OmegAMP](materials/omegamp/README.md)** (30 min) - Diogo Soares
+    - [Slides](materials/omegamp/omegamp-ml-in-pl.pdf)
+    - [Google Colab](https://colab.research.google.com/drive/1hrk-3Pc0zZUkpCVKMY6vns9G6BcWWXyM?usp=sharing)
 - Break (15 min)
-- **[Sampling with Joint Generative-Predictive Chemical Language Models](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models)**
+- **[Sampling with Joint Generative-Predictive Chemical Language Models (slides)](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models.pdf)**
     - **[Hyformer](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models/hyformer/README.md)** (30 min) - Adam Izdebski
+        - [Google Colab](https://colab.research.google.com/drive/1dyt9vm33mdxRChD0lrfXK6UEgbmlAWpK?usp=sharing)
     - **[Joint-self-improvement](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models/joint-self-improvement/README.md)** (30 min) - Serra Korkmaz
+        - [Google Colab](https://colab.research.google.com/drive/1dZail-j4WVSEuziQlAXPV8cKmbkIpV97?usp=sharing)
     - **[AMPFormer](materials/Sampling-with-Joint-Generative-Predictive-Chemical-Language-Models/ampformer/README.md)** (30 min) - Pankhil Gawade
+        - [Google Colab](https://colab.research.google.com/github/Pankhil07/mlinpl-peptide-tutorial/blob/main/mlinpl-controllable-peptide-design.ipynb)
